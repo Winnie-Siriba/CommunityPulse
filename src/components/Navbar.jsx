@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
       <div className="container">
-        <Link to="/" className="navbar-brand text-primary fw-bold">Community Plus</Link>
+        <Link to="/" className="navbar-brand text-primary fw-bold">Community Pulse</Link>
         
         <button 
           className="navbar-toggler" 
