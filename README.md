@@ -41,7 +41,7 @@ A community reporting platform that helps users report, track, and resolve issue
 
 ## Tech Stack
 
-- React with TypeScript
+- React with JavaScript
 - React Router for navigation
 - JSON Server for mock backend
 - Tailwind CSS and Shadcn UI for styling
