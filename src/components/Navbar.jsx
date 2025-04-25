@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom'; // Importing Link and NavLink components from react-router-dom for routing
 
 const Navbar = () => {
   return (
@@ -66,4 +66,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Navbar;  // Export the Navbar component so it can be used in other parts of the app
