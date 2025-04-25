@@ -1,0 +1,85 @@
+{
+  "reports": [
+    {
+      "id": "1",
+      "location": "Main Street Park",
+      "description": "The children's playground has a broken swing that needs repair.",
+      "imageUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=800",
+      "category": "Public Services",
+      "resolved": true,
+      "createdAt": "2023-09-05T14:48:00.000Z"
+    },
+    {
+      "id": "2",
+      "location": "Oak Avenue & 5th Street",
+      "description": "Large pothole causing vehicles to swerve dangerously to avoid it.",
+      "imageUrl": "https://images.unsplash.com/photo-1615486363973-f79d875780cf?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=800",
+      "category": "Roads & Infrastructure",
+      "resolved": true,
+      "createdAt": "2023-09-01T09:23:00.000Z"
+    },
+    {
+      "id": "3",
+      "location": "Riverside Trail",
+      "description": "Trash cans are overflowing and need to be emptied.",
+      "imageUrl": "https://images.unsplash.com/photo-1605600659873-d808a13e4d9c?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=800",
+      "category": "Cleanliness",
+      "resolved": true,
+      "createdAt": "2023-09-03T16:30:00.000Z"
+    },
+    {
+      "id": "4",
+      "location": "Downtown Public Square",
+      "description": "Several streetlights not working, creating a safety concern at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1545481950-525e06873261?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=800",
+      "category": "Safety",
+      "resolved": true,
+      "createdAt": "2023-08-28T20:15:00.000Z"
+    },
+    {
+      "id": "5",
+      "location": "Community Garden",
+      "description": "The irrigation system is leaking and needs maintenance.",
+      "imageUrl": null,
+      "category": "Environment",
+      "resolved": true,
+      "createdAt": "2023-09-04T11:05:00.000Z"
+    },
+    {
+      "id": "6",
+      "location": "Maple Elementary School Crossing",
+      "description": "School crossing sign has been knocked down and needs to be reinstalled.",
+      "imageUrl": "https://images.unsplash.com/photo-1560969184-13d6203fa581?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=800",
+      "category": "Safety",
+      "resolved": true,
+      "createdAt": "2023-08-25T08:45:00.000Z"
+    },
+    {
+      "id": "987d",
+      "location": "Nairobi",
+      "description": "There is a pothole near Kempinski",
+      "imageUrl": "",
+      "category": "Roads & Infrastructure",
+      "resolved": true,
+      "createdAt": "2025-04-25T04:19:42.448Z"
+    },
+    {
+      "id": "c5a5",
+      "location": "Nairobi",
+      "description": "Polltution in Waiyaki Way",
+      "imageUrl": "",
+      "category": "Cleanliness",
+      "resolved": true,
+      "createdAt": "2025-04-25T04:37:52.720Z"
+    },
+    {
+      "id": "20ff",
+      "location": "Kisii",
+      "description": "A treehas fallen on the road to Kisii town",
+      "imageUrl": "",
+      "category": "Safety",
+      "resolved": false,
+      "createdAt": "2025-04-25T04:59:06.967Z"
+    }
+  ]
+}
