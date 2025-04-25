@@ -18,7 +18,7 @@ const App = () => (
           <Route path="/report" element={<ReportForm />} />
           <Route path="/all-reports" element={<AllReports />} />
           <Route path="/resolved" element={<ResolvedReports />} />
-          {/* Catch-all route for 404 */}
+          {/* Catch all route for 404 */}
           <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
